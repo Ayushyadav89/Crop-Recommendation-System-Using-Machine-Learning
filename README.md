@@ -1,7 +1,7 @@
-# 🌾 Crop Recommendation System using Machine Learning  
+# 🌾 GrowGuide - Crop Recommendation System using Machine Learning  
 
 ## 📌 Overview  
-The **Crop Recommendation System** is a machine learning-based web application that suggests the most suitable crop for cultivation based on **soil conditions, environmental factors, and nutrient levels**. The system uses **Flask** for backend, **Jupyter Notebook** for training models, and a **CSV dataset** for analysis.  
+The **GrowGuide** is a machine learning-based web application that suggests the most suitable crop for cultivation based on **soil conditions, environmental factors, and nutrient levels**. The system uses **Flask** for backend, **Jupyter Notebook** for training models, and a **CSV dataset** for analysis.  
 
 ## 🚀 Features  
 ✅ Machine learning models for crop prediction  
