@@ -40,59 +40,55 @@ Edit
 ## 🔧 Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/Crop-Recommendation-System.git
-cd Crop-Recommendation-System
-2️⃣ Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run Jupyter Notebook
-bash
-Copy
-Edit
-jupyter notebook
-Open notebooks/model_training.ipynb and run the cells to train the model.
-Save the trained model as model.pkl.
-4️⃣ Run Flask Backend
-bash
-Copy
-Edit
-cd backend
-python app.py
-Flask server starts at http://127.0.0.1:5000/.
-📊 Dataset Details
-The dataset (crop_data.csv) contains soil and environmental features like:
+- git clone https://github.com/yourusername/Crop-Recommendation-System.git
+- cd Crop-Recommendation-System
 
-N, P, K (Nitrogen, Phosphorus, Potassium)
-Temperature & Humidity
-pH Level
-Rainfall
-Crop Label
-🎯 Model Performance
-Model	Accuracy
-Decision Tree	92%
-Random Forest	96%
-SVM	88%
-Gradient Boosting	94%
-💡 Future Enhancements
-🔹 Integrate real-time weather data
-🔹 Add market price analysis for crops
-🔹 Develop a mobile app version
-🔹 Enhance UI/UX with interactive visuals
+### 2️⃣ Install Dependencies
 
-📝 Contributing
-Feel free to fork this repository and contribute!
+- pip install -r requirements.txt
 
-Fork the repo
-Create a new branch
-Commit your changes
-Push & submit a PR
-📜 License
-This project is open-source and available under the MIT License.
+### 3️⃣ Run Jupyter Notebook
+- jupyter notebook
+- Open notebooks/model_training.ipynb and run the cells to train the model.
+- Save the trained model as model.pkl.
 
-📧 Contact
-🔹 Author: Ayush Yadav
-🔹 Email: 2k22.cse.2213307@gmail.com
-🔹 LinkedIn: https://www.linkedin.com/in/ayush-yadav-143536253/
+### 4️⃣ Run Flask Backend
+- cd backend
+- python app.py
+- Flask server starts at http://127.0.0.1:5000/.
+- 📊 Dataset Details
+- The dataset (crop_data.csv) contains soil and environmental features like:
+
+- N, P, K (Nitrogen, Phosphorus, Potassium)
+- Temperature & Humidity
+- pH Level
+- Rainfall
+- Crop Label
+### 🎯 Model Performance
+- Model	Accuracy
+- Decision Tree	92%
+- Random Forest	96%
+- SVM	88%
+- Gradient Boosting	94%
+
+### 💡 Future Enhancements
+- 🔹 Integrate real-time weather data
+- 🔹 Add market price analysis for crops
+- 🔹 Develop a mobile app version
+- 🔹 Enhance UI/UX with interactive visuals
+
+### 📝 Contributing
+- Feel free to fork this repository and contribute!
+
+- Fork the repo
+- Create a new branch
+- Commit your changes
+- Push & submit a PR
+
+### 📜 License
+- This project is open-source and available under the MIT License.
+
+### 📧 Contact
+- 🔹 Author: Ayush Yadav
+- 🔹 Email: 2k22.cse.2213307@gmail.com
+- 🔹 LinkedIn: https://www.linkedin.com/in/ayush-yadav-143536253/
