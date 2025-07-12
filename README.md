@@ -27,6 +27,13 @@ The **GrowGuide** is a machine learning-based web application that suggests the 
 
 ---
 
+## ScreenShot
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/cb7b02dc-2233-45f1-b3ae-f4ac19cdb6d0" />
+<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/931bc132-c9a5-48f0-b54b-cf04179e5a5b" />
+
+
+---
+
 ## 📂 Project Structure  
 
 📁 Crop-Recommendation-System │── 📂 dataset │ └── crop_data.csv │── 📂 notebooks │ ├── data_preprocessing.ipynb │ ├── model_training.ipynb │ └── model_evaluation.ipynb │── 📂 backend │ ├── app.py │ ├── model.pkl │ └── requirements.txt │── 📂 frontend │ ├── static │ ├── templates │ └── index.html │── README.md └── .gitignore
