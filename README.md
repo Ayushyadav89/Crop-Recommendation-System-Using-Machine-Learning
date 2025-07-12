@@ -89,6 +89,6 @@ Edit
 - This project is open-source and available under the MIT License.
 
 ### 📧 Contact
-- 🔹 Author: Ayush Yadav
+- 🔹 Author: Ayush Yadav 
 - 🔹 Email: 2k22.cse.2213307@gmail.com
 - 🔹 LinkedIn: https://www.linkedin.com/in/ayush-yadav-143536253/
